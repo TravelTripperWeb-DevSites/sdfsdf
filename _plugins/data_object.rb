@@ -1,1 +1,59 @@
-Y21WeGRXbHlaU0FuWkdGMFpTY0tDbU5zWVhOeklFUmhkR0ZQWW1wbFkzUUtJQ0JoZEhSeVgzSmxZV1JsCmNpQTZaR0YwWVN3Z09tUmxabWx1YVhScGIyNXpMQ0E2YzNSdmNtRm5aUW9LSUNCa1pXWWdhVzVwZEdsaApiR2w2WlNoa1lYUmhMQ0JrWldacGJtbDBhVzl1Y3l3Z2MzUnZjbUZuWlNrS0lDQWdJRUJrWVhSaElEMGcKWkdGMFlRb2dJQ0FnUUdSbFptbHVhWFJwYjI1eklEMGdaR1ZtYVc1cGRHbHZibk1LSUNBZ0lFQnpkRzl5CllXZGxJRDBnYzNSdmNtRm5aUW9nSUdWdVpBb0tJQ0JrWldZZ2JXRjBZMmcvS0d0bGVTd2dkbUZzZFdWegpLUW9nSUNBZ2EyVjVJRDBnYTJWNUxuUnZYM01LSUNBZ0lIWmhiSFZsY3lBOUlIWmhiSFZsY3k1dFlYQW8KSmpwMGIxOXpLUW9LSUNBZ0lHbG1JR1JsWm1sdWFYUnBiMjV6TG1oaGMxOXJaWGsvS0d0bGVTa2dKaVlnClpHVm1hVzVwZEdsdmJuTmJhMlY1WFM1b1lYTmZhMlY1UHlnbmRIbHdaU2NwSUNZbUlHUmxabWx1YVhScApiMjV6VzJ0bGVWMWJKM1I1Y0dVblhTQTlQU0FuYlc5a1pXd25DaUFnSUNBZ0lITjBiM0poWjJVdWMyVnUKWkNBaVptbHVaRjhqZTJSbFptbHVhWFJwYjI1elcydGxlVjFiSjIxdlpHVnNYMjVoYldVblhYMWZZbmxmCkkzdGtaV1pwYm1sMGFXOXVjMXRyWlhsZFd5ZG1iM0psYVdkdVgydGxlU2RkSUh4OElDZHBaQ2Q5SWl3ZwpkbUZzZFdWekNpQWdJQ0JsYkhObENpQWdJQ0FnSUhaaGJIVmxjeTVwYm1Oc2RXUmxQeUJrWVhSaFcydGwKZVYwdWRHOWZjd29nSUNBZ1pXNWtDaUFnWlc1a0Nnb2dJR1JsWmlCdFpYUm9iMlJmYldsemMybHVaeWh1CllXMWxMQ0FxWVhKbmRXMWxiblJ6TENBbVlteHZZMnNwQ2lBZ0lDQnBaaUJrWVhSaFcyNWhiV1V1ZEc5ZgpjMTB1Ym1sc1B3b2dJQ0FnSUNCemRYQmxjZ29nSUNBZ1pXeHpaUW9nSUNBZ0lDQnVZVzFsSUQwZ2JtRnQKWlM1MGIxOXpDaUFnSUNBZ0lIWmhiSFZsSUQwZ2FXWWdaR1ZtYVc1cGRHbHZibk11YUdGelgydGxlVDhvCmJtRnRaU2tnSmlZZ1pHVm1hVzVwZEdsdmJuTmJibUZ0WlYwdWFHRnpYMnRsZVQ4b0ozUjVjR1VuS1NBbQpKaUJrWldacGJtbDBhVzl1YzF0dVlXMWxYVnNuZEhsd1pTZGRJRDA5SUNkdGIyUmxiQ2NLSUNBZ0lDQWcKSUNCemRHOXlZV2RsTG5ObGJtUWdJbVpwYm1SZkkzdGtaV1pwYm1sMGFXOXVjMXR1WVcxbFhWc25iVzlrClpXeGZibUZ0WlNkZGZWOWllVjhqZTJSbFptbHVhWFJwYjI1elcyNWhiV1ZkV3lkbWIzSmxhV2R1WDJ0bAplU2RkSUh4OElDZHBaQ2Q5SWl3Z1pHRjBZVnR1WVcxbFhRb2dJQ0FnSUNCbGJITnBaaUJrWldacGJtbDAKYVc5dWN5NW9ZWE5mYTJWNVB5aHVZVzFsS1NBbUppQmtaV1pwYm1sMGFXOXVjMXR1WVcxbFhTNW9ZWE5mCmEyVjVQeWduZEhsd1pTY3BJQ1ltSUdSbFptbHVhWFJwYjI1elcyNWhiV1ZkV3lkMGVYQmxKMTBnUFQwZwpKMlJoZEdVbkNpQWdJQ0FnSUNBZ1JHRjBaUzV3WVhKelpTQmtZWFJoVzI1aGJXVmRDaUFnSUNBZ0lHVnMKYzJsbUlHUmxabWx1YVhScGIyNXpMbWhoYzE5clpYay9LRzVoYldVcElDWW1JR1JsWm1sdWFYUnBiMjV6ClcyNWhiV1ZkTG1oaGMxOXJaWGsvS0NkMGVYQmxKeWtnSmlZZ1pHVm1hVzVwZEdsdmJuTmJibUZ0WlYxYgpKM1I1Y0dVblhTQTlQU0FuWkdWMFpYUnBiV1VuQ2lBZ0lDQWdJQ0FnUkdGMFpWUnBiV1V1Y0dGeWMyVWcKWkdGMFlWdHVZVzFsWFFvZ0lDQWdJQ0JsYkhObENpQWdJQ0FnSUNBZ1pHRjBZVnR1WVcxbFhRb2dJQ0FnCklDQmxibVFLQ2lBZ0lDQWdJR1JsWm1sdWFYUnBiMjV6TG1oaGMxOXJaWGsvS0c1aGJXVXBJQ1ltSUdSbApabWx1YVhScGIyNXpXMjVoYldWZExtaGhjMTlyWlhrL0tDZHNiMk5oYkdsNllXSnNaU2NwSUNZbUlHUmwKWm1sdWFYUnBiMjV6VzI1aGJXVmRXeWRzYjJOaGJHbDZZV0pzWlNkZElEOEtJQ0FnSUNBZ0lDQjJZV3gxClpWdHpkRzl5WVdkbExteHZZMkZzWlYwZ2ZId2dkbUZzZFdWYmMzUnZjbUZuWlM1a1pXWmhkV3gwWDJ4dgpZMkZzWlYwZ09pQjJZV3gxWlFvZ0lDQWdaVzVrQ2lBZ1pXNWtDZ29nSUdSbFppQnlaWE53YjI1a1gzUnYKWDIxcGMzTnBibWMvS0c1aGJXVXNJR2x1WTJ4MVpHVmZjSEpwZG1GMFpTQTlJR1poYkhObEtRb2dJQ0FnCklXUmhkR0ZiYm1GdFpTNTBiMTl6WFM1dWFXdy9JSHg4SUhOMWNHVnlDaUFnWlc1a0Nnb2dJR1JsWmlCMApiMTlzYVhGMWFXUUtJQ0FnSUhObGJHWUtJQ0JsYm1RS0NpQWdaR1ZtSUZ0ZEtIQnliM0JsY25SNUtRb2cKSUNBZ2MyVnVaQ2h3Y205d1pYSjBlU2tLSUNCbGJtUUtDaUFnWkdWbUlHaGhjMTlyWlhrL0tIQnliM0JsCmNuUjVLUW9nSUNBZ1pHRjBZUzVvWVhOZmEyVjVQeWh3Y205d1pYSjBlU2tLSUNCbGJtUUtDbVZ1WkFvPQo=
+require 'date'
+
+class DataObject
+  attr_reader :data, :definitions, :storage
+
+  def initialize(data, definitions, storage)
+    @data = data
+    @definitions = definitions
+    @storage = storage
+  end
+
+  def match?(key, values)
+    key = key.to_s
+    values = values.map(&:to_s)
+
+    if definitions.has_key?(key) && definitions[key].has_key?('type') && definitions[key]['type'] == 'model'
+      storage.send "find_#{definitions[key]['model_name']}_by_#{definitions[key]['foreign_key'] || 'id'}", values
+    else
+      values.include? data[key].to_s
+    end
+  end
+
+  def method_missing(name, *arguments, &block)
+    if data[name.to_s].nil?
+      super
+    else
+      name = name.to_s
+      value = if definitions.has_key?(name) && definitions[name].has_key?('type') && definitions[name]['type'] == 'model'
+        storage.send "find_#{definitions[name]['model_name']}_by_#{definitions[name]['foreign_key'] || 'id'}", data[name]
+      elsif definitions.has_key?(name) && definitions[name].has_key?('type') && definitions[name]['type'] == 'date'
+        Date.parse data[name]
+      elsif definitions.has_key?(name) && definitions[name].has_key?('type') && definitions[name]['type'] == 'detetime'
+        DateTime.parse data[name]
+      else
+        data[name]
+      end
+
+      definitions.has_key?(name) && definitions[name].has_key?('localizable') && definitions[name]['localizable'] ?
+        value[storage.locale] || value[storage.default_locale] : value
+    end
+  end
+
+  def respond_to_missing?(name, include_private = false)
+    !data[name.to_s].nil? || super
+  end
+
+  def to_liquid
+    self
+  end
+
+  def [](property)
+    send(property)
+  end
+
+  def has_key?(property)
+    data.has_key?(property)
+  end
+
+end

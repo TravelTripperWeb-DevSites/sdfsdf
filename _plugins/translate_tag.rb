@@ -1,1 +1,31 @@
-Y21WeGRXbHlaU0FuYVRFNGJpY0tDbTF2WkhWc1pTQktaV3Q1Ykd3S0lDQmpiR0Z6Y3lCVWNtRnVjMnhoCmRHVlVZV2NnUENCTWFYRjFhV1E2T2xSaFp3b2dJQ0FnWkdWbUlHbHVhWFJwWVd4cGVtVW9kR0ZuWDI1aApiV1VzSUhSdmEyVnVMQ0FxWVhKbmN5a0tJQ0FnSUNBZ2MzVndaWElLSUNBZ0lDQWdjR0Z5WVcxeklEMGcKZEc5clpXNHVkRzlmY3k1emRISnBjQzV6Y0d4cGRDZ25MQ2NwQ2lBZ0lDQWdJRUIwYjJ0bGJpQTlJR1YyCllXd29jR0Z5WVcxeld6QmRMbk4wY21sd0tRb2dJQ0FnSUNCQWJHOWpZV3hsSUQwZ2NHRnlZVzF6V3pGZApMblJ2WDNNdWMzUnlhWEFLSUNBZ0lDQWdRR3h2WTJGc1pTQTlJRzVwYkNCcFppQkFiRzlqWVd4bElEMDkKSUNjbkNpQWdJQ0JsYm1RS0NpQWdJQ0JrWldZZ2NtVnVaR1Z5S0dOdmJuUmxlSFFwQ2lBZ0lDQWdJSE5wCmRHVWdQU0JqYjI1MFpYaDBMbkpsWjJsemRHVnljMXM2YzJsMFpWMEtJQ0FnSUNBZ2JHOWhaRjkwY21GdQpjMnhoZEdsdmJuTW9jMmwwWlM1emIzVnlZMlVwQ2lBZ0lDQWdJR3h2WTJGc1pTQTlJR052Ym5SbGVIUmIKUUd4dlkyRnNaVjBnZkh3Z1FHeHZZMkZzWlNCOGZDQnphWFJsTG1GamRHbDJaVjlzWVc1bklIeDhJSE5wCmRHVXVaR1ZtWVhWc2RGOXNZVzVuSUh4OElDZGxiaWNLSUNBZ0lDQWdTVEU0Ymk1aGRtRnBiR0ZpYkdWZgpiRzlqWVd4bGN5QTlJSE5wZEdVdWJHRnVaM1ZoWjJWeklIeDhJRnR6YVhSbExtUmxabUYxYkhSZmJHRnUKWnlCOGZDQW5aVzRuWFFvS0lDQWdJQ0FnU1RFNGJpNTBJRUIwYjJ0bGJpd2diRzlqWVd4bE9pQnNiMk5oCmJHVUtJQ0FnSUdWdVpBb0tJQ0FnSUhCeWFYWmhkR1VLSUNBZ0lDQWdaR1ZtSUd4dllXUmZkSEpoYm5OcwpZWFJwYjI1ektIQmhkR2dwQ2lBZ0lDQWdJQ0FnZFc1c1pYTnpJRWt4T0c0Nk9tSmhZMnRsYm1RdWFXNXoKZEdGdVkyVmZkbUZ5YVdGaWJHVmZaMlYwS0RwQWRISmhibk5zWVhScGIyNXpLUW9nSUNBZ0lDQWdJQ0FnClNURTRiaTVpWVdOclpXNWtMbXh2WVdSZmRISmhibk5zWVhScGIyNXpJRVJwY2x0R2FXeGxMbXB2YVc0bwpjR0YwYUN3Z0oxOXNiMk5oYkdWekx5b3VlVzFzSnlsZENpQWdJQ0FnSUNBZ1pXNWtDaUFnSUNBZ0lHVnUKWkFvZ0lHVnVaQXBsYm1RS0NreHBjWFZwWkRvNlZHVnRjR3hoZEdVdWNtVm5hWE4wWlhKZmRHRm5LQ2QwCkp5d2dTbVZyZVd4c09qcFVjbUZ1YzJ4aGRHVlVZV2NwQ2c9PQo=
+require 'i18n'
+
+module Jekyll
+  class TranslateTag < Liquid::Tag
+    def initialize(tag_name, token, *args)
+      super
+      params = token.to_s.strip.split(',')
+      @token = eval(params[0].strip)
+      @locale = params[1].to_s.strip
+      @locale = nil if @locale == ''
+    end
+
+    def render(context)
+      site = context.registers[:site]
+      load_translations(site.source)
+      locale = context[@locale] || @locale || site.active_lang || site.default_lang || 'en'
+      I18n.available_locales = site.languages || [site.default_lang || 'en']
+
+      I18n.t @token, locale: locale
+    end
+
+    private
+      def load_translations(path)
+        unless I18n::backend.instance_variable_get(:@translations)
+          I18n.backend.load_translations Dir[File.join(path, '_locales/*.yml')]
+        end
+      end
+  end
+end
+
+Liquid::Template.register_tag('t', Jekyll::TranslateTag)

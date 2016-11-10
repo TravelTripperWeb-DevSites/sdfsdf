@@ -1,1 +1,149 @@
-SXlCS1pXdDViR3dnVUc5c2VXZHNiM1FnZGpFdU1TNHdDaU1nUm1GemRDd2djR0ZwYm14bGMzTXNJRzl3ClpXNGdjMjkxY21ObElHa3hPRzRnY0d4MVoybHVJR1p2Y2lCS1pXdDViR3dnTXk0d0lFSnNiMmR6TGdvagpJQ0FnWVhWMGFHOXlJRk5oYlhWbGJDQldiMnhwYmlBb1FIVnVkSEpoS1FvaklDQWdaMmwwYUhWaU9pQm8KZEhSd2N6b3ZMMmRwZEdoMVlpNWpiMjB2ZFc1MGNtRXZjRzlzZVdkc2IzUUtJeUFnSUd4cFkyVnVjMlU2CklFMUpWQW9qYVc1amJIVmtaU0JRY205alpYTnpDbTF2WkhWc1pTQktaV3Q1Ykd3S0lDQWpJRUZzZEdWeQpZWFJwYjI0Z2RHOGdTbVZyZVd4c0lGTnBkR1VnWTJ4aGMzTUtJQ0FqSUhCeWIzWnBaR1Z6SUdGc2FXRnoKWldRZ2JXVjBhRzlrY3lCMGJ5QmthWEpsWTNRZ2MybDBaUzUzY21sMFpTQjBieUJ2ZFhSd2RYUWdhVzUwCmJ5QnpaWEJsY21GMFpRb2dJQ01nYkdGdVozVmhaMlVnWm05c1pHVnljd29nSUdOc1lYTnpJRk5wZEdVSwpJQ0FnSUdGMGRISmZjbVZoWkdWeUlEcGtaV1poZFd4MFgyeGhibWNzSURwc1lXNW5kV0ZuWlhNS0lDQWcKSUdGMGRISmZZV05qWlhOemIzSWdPbVpwYkdWZmJHRnVaM01zSURwaFkzUnBkbVZmYkdGdVp3b0tJQ0FnCklHUmxaaUJ3Y21Wd1lYSmxDaUFnSUNBZ0lFQm1hV3hsWDJ4aGJtZHpJRDBnZTMwS0lDQWdJQ0FnUUdSbApabUYxYkhSZmJHRnVaeUE5SUdOdmJtWnBaMXNuWkdWbVlYVnNkRjlzWVc1bkoxMGdmSHdnSjJWdUp3b2cKSUNBZ0lDQkFiR0Z1WjNWaFoyVnpJRDBnWTI5dVptbG5XeWRzWVc1bmRXRm5aWE1uWFNCOGZDQmJKMlZ1CkoxMEtJQ0FnSUNBZ0tFQnJaV1Z3WDJacGJHVnpJRHc4SUVCc1lXNW5kV0ZuWlhNZ0xTQmJRR1JsWm1GMQpiSFJmYkdGdVoxMHBMbVpzWVhSMFpXNGhDaUFnSUNBZ0lFQmhZM1JwZG1WZmJHRnVaeUE5SUVCa1pXWmgKZFd4MFgyeGhibWNLSUNBZ0lHVnVaQW9LSUNBZ0lHRnNhV0Z6WDIxbGRHaHZaQ0E2Y0hKdlkyVnpjMTl2CmNtbG5MQ0E2Y0hKdlkyVnpjd29nSUNBZ1pHVm1JSEJ5YjJObGMzTUtJQ0FnSUNBZ2NISmxjR0Z5WlFvZwpJQ0FnSUNCc1lXNW5kV0ZuWlhNdVpXRmphQ0JrYnlCOGJHRnVaM3dLSUNBZ0lDQWdJQ0J3Y205alpYTnoKWDJ4aGJtZDFZV2RsSUd4aGJtY0tJQ0FnSUNBZ1pXNWtDajFpWldkcGJnb2dJQ0FnSUNCd2FXUnpJRDBnCmUzMEtJQ0FnSUNBZ2JHRnVaM1ZoWjJWekxtVmhZMmdnWkc4Z2ZHeGhibWQ4Q2lBZ0lDQWdJQ0FnY0dsawpjMXRzWVc1blhTQTlJRkJ5YjJObGMzTXVabTl5YXlCa2J3b2dJQ0FnSUNBZ0lDQWdjSEp2WTJWemMxOXMKWVc1bmRXRm5aU0JzWVc1bkNpQWdJQ0FnSUNBZ1pXNWtDaUFnSUNBZ0lHVnVaQW9nSUNBZ0lDQnZiR1JmCmFHRnVaR3hsY2lBOUlGTnBaMjVoYkM1MGNtRndLQ2RKVGxRbktTQmtid29nSUNBZ0lDQWdJRzlzWkY5bwpZVzVrYkdWeUxtTmhiR3dLQ2lBZ0lDQWdJQ0FnYkdGdVozVmhaMlZ6TG1WaFkyZ2daRzhnZkd4aGJtZDgKQ2lBZ0lDQWdJQ0FnSUNCaVpXZHBiZ29nSUNBZ0lDQWdJQ0FnSUNCd2RYUnpJQ0pMYVd4c2FXNW5JQ043CmNHbGtjMXRzWVc1blhYMGdPaUFqZTJ4aGJtZDlJZ29nSUNBZ0lDQWdJQ0FnSUNCUWNtOWpaWE56TG10cApiR3dvSjBsT1ZDY3NJSEJwWkhOYmJHRnVaMTBwQ2lBZ0lDQWdJQ0FnSUNCeVpYTmpkV1VnUlhKeWJtODYKT2tWVFVrTklDaUFnSUNBZ0lDQWdJQ0FnSUhCMWRITWdJbEJ5YjJObGMzTWdJM3R3YVdSelcyeGhibWRkCmZTQTZJQ043YkdGdVozMGdibTkwSUhKMWJtNXBibWNpQ2lBZ0lDQWdJQ0FnSUNCbGJtUUtJQ0FnSUNBZwpJQ0JsYm1RS0lDQWdJQ0FnWlc1a0NpQWdJQ0FnSUd4aGJtZDFZV2RsY3k1bFlXTm9JR1J2SUh4c1lXNW4KZkFvZ0lDQWdJQ0FnSUZCeWIyTmxjM011ZDJGcGRIQnBaQ0J3YVdSelcyeGhibWRkQ2lBZ0lDQWdJQ0FnClVISnZZMlZ6Y3k1a1pYUmhZMmdnY0dsa2MxdHNZVzVuWFFvZ0lDQWdJQ0JsYm1RS1BXVnVaQW9nSUNBZwpaVzVrQ2dvZ0lDQWdZV3hwWVhOZmJXVjBhRzlrSURwemFYUmxYM0JoZVd4dllXUmZiM0pwWnl3Z09uTnAKZEdWZmNHRjViRzloWkFvZ0lDQWdaR1ZtSUhOcGRHVmZjR0Y1Ykc5aFpBb2dJQ0FnSUNCd1lYbHNiMkZrCklEMGdjMmwwWlY5d1lYbHNiMkZrWDI5eWFXY0tJQ0FnSUNBZ2NHRjViRzloWkZzbmMybDBaU2RkV3lkawpaV1poZFd4MFgyeGhibWNuWFNBOUlHUmxabUYxYkhSZmJHRnVad29nSUNBZ0lDQndZWGxzYjJGa1d5ZHoKYVhSbEoxMWJKMnhoYm1kMVlXZGxjeWRkSUQwZ2JHRnVaM1ZoWjJWekNpQWdJQ0FnSUhCaGVXeHZZV1JiCkozTnBkR1VuWFZzbllXTjBhWFpsWDJ4aGJtY25YU0E5SUdGamRHbDJaVjlzWVc1bkNpQWdJQ0FnSUhCaAplV3h2WVdRS0lDQWdJR1Z1WkFvS0lDQWdJR1JsWmlCd2NtOWpaWE56WDJ4aGJtZDFZV2RsS0d4aGJtY3AKQ2lBZ0lDQWdJRUJoWTNScGRtVmZiR0Z1WnlBOUlHeGhibWNLSUNBZ0lDQWdZMjl1Wm1sbld5ZGhZM1JwCmRtVmZiR0Z1WnlkZElEMGdRR0ZqZEdsMlpWOXNZVzVuQ2lBZ0lDQWdJSEpsZEhWeWJpQndjbTlqWlhOegpYMjl5YVdjZ2FXWWdRR0ZqZEdsMlpWOXNZVzVuSUQwOUlFQmtaV1poZFd4MFgyeGhibWNLSUNBZ0lDQWcKY0hKdlkyVnpjMTloWTNScGRtVmZiR0Z1WjNWaFoyVUtJQ0FnSUdWdVpBb0tJQ0FnSUdSbFppQndjbTlqClpYTnpYMkZqZEdsMlpWOXNZVzVuZFdGblpRb2dJQ0FnSUNCQVpHVnpkQ0E5SUVCa1pYTjBJQ3NnSnk4bgpJQ3NnUUdGamRHbDJaVjlzWVc1bkNpQWdJQ0FnSUhCeWIyTmxjM05mYjNKcFp3b2dJQ0FnWlc1a0Nnb2cKSUNBZ0l5Qm9iMjlySUhSdklHTnZiM0prYVc1aGRHVWdZbXh2WnlCd2IzTjBjeUJwYm5SdklHUnBjM1JwCmJtTjBJSFZ5YkhNc0NpQWdJQ0FqSUdGdVpDQnlaVzF2ZG1VZ1pIVndiR2xqWVhSbElHMTFiSFJwYkdGdQpaM1ZoWjJVZ2NHOXpkSE1LSUNBZ0lFcGxhM2xzYkRvNlNHOXZhM011Y21WbmFYTjBaWElnT25OcGRHVXMKSURwd2IzTjBYM0psWVdRZ1pHOGdmSE5wZEdWOENpQWdJQ0FnSUd4aGJtZHpJRDBnZTMwS0lDQWdJQ0FnCllYQndjbTkyWldRZ1BTQjdmUW9nSUNBZ0lDQnVJRDBnSnljS0lDQWdJQ0FnYzJsMFpTNXNZVzVuZFdGbgpaWE11WldGamFDQmtieUI4YkdGdVozd0tJQ0FnSUNBZ0lDQnVJQ3M5SUNJb1cxd3ZYQzVkSTN0c1lXNW4KZlZ0Y0wxd3VYU2w4SWdvZ0lDQWdJQ0JsYm1RS0lDQWdJQ0FnYmk1amFHOXRjQ0VnSjN3bkNpQWdJQ0FnCklITnBkR1V1Y0c5emRITXVaRzlqY3k1bFlXTm9JR1J2SUh4a2IyTjhDaUFnSUNBZ0lDQWdiR0Z1WjNWaApaMlVnUFNCa2IyTXVaR0YwWVZzbmJHRnVaeWRkSUh4OElITnBkR1V1WkdWbVlYVnNkRjlzWVc1bkNpQWcKSUNBZ0lDQWdkWEpzSUQwZ1pHOWpMblZ5YkM1bmMzVmlLQ1Z5ZXlON2JuMTlMQ0FuTHljcENpQWdJQ0FnCklDQWdaRzlqTG1SaGRHRmJKM0JsY20xaGJHbHVheWRkSUQwZ2RYSnNDaUFnSUNBZ0lDQWdibVY0ZENCcApaaUJzWVc1bmMxdDFjbXhkSUQwOUlITnBkR1V1WVdOMGFYWmxYMnhoYm1jS0lDQWdJQ0FnSUNCcFppQnMKWVc1bmMxdDFjbXhkSUQwOUlITnBkR1V1WkdWbVlYVnNkRjlzWVc1bkNpQWdJQ0FnSUNBZ0lDQnVaWGgwCklHbG1JR3hoYm1kMVlXZGxJQ0U5SUhOcGRHVXVZV04wYVhabFgyeGhibWNLSUNBZ0lDQWdJQ0JsYm1RSwpJQ0FnSUNBZ0lDQmhjSEJ5YjNabFpGdDFjbXhkSUQwZ1pHOWpDaUFnSUNBZ0lDQWdiR0Z1WjNOYmRYSnMKWFNBOUlHeGhibWQxWVdkbENpQWdJQ0FnSUdWdVpBb2dJQ0FnSUNCemFYUmxMbkJ2YzNSekxtUnZZM01nClBTQmhjSEJ5YjNabFpDNTJZV3gxWlhNS0lDQWdJR1Z1WkFvZ0lHVnVaQW9LSUNBaklFRnNkR1Z5WVhScApiMjRnZEc4Z1NtVnJlV3hzSUVOdmJuWmxjblJwWW14bElHMXZaSFZzWlFvZ0lDTWdjSEp2ZG1sa1pYTWcKWVd4cFlYTmxaQ0J0WlhSb2IyUnpJSFJ2SUdScGNtVmpkQ0JEYjI1MlpYSjBhV0pzWlNCMGJ5QnphMmx3CklHWnBiR1Z6SUdadmNpQjNjbWwwWlNCMWJtUmxjZ29nSUNNZ1kyVnlkR0ZwYmlCamIyNWthWFJwYjI1egpDaUFnYlc5a2RXeGxJRU52Ym5abGNuUnBZbXhsQ2lBZ0lDQmtaV1lnYkdGdVp3b2dJQ0FnSUNCa1lYUmgKV3lkc1lXNW5KMTBnZkh3Z2MybDBaUzVqYjI1bWFXZGJKMlJsWm1GMWJIUmZiR0Z1WnlkZElIeDhJQ2RsCmJpY0tJQ0FnSUdWdVpBb0tJQ0FnSUdSbFppQnNZVzVuUFNoemRISXBDaUFnSUNBZ0lHUmhkR0ZiSjJ4aApibWNuWFNBOUlITjBjZ29nSUNBZ1pXNWtDZ29nSUNBZ1lXeHBZWE5mYldWMGFHOWtJRHAzY21sMFpWOXYKY21sbkxDQTZkM0pwZEdVS0lDQWdJR1JsWmlCM2NtbDBaU2hrWlhOMEtRb2dJQ0FnSUNCd1lYUm9JRDBnCmNHOXNlWEJoZEdnb1pHVnpkQ2tLSUNBZ0lDQWdjbVYwZFhKdUlHbG1JSE5yYVhBL0tIQmhkR2dwQ2lBZwpJQ0FnSUc5MWRIQjFkRjl2Y21sbklEMGdiM1YwY0hWMExtTnNiMjVsQ2lBZ0lDQWdJSGR5YVhSbFgyOXkKYVdjb1pHVnpkQ2tLSUNBZ0lDQWdjMlZzWmk1dmRYUndkWFFnUFNCdmRYUndkWFJmYjNKcFp3b2dJQ0FnCklDQnphWFJsTG1acGJHVmZiR0Z1WjNOYmNHRjBhRjBnUFNCc1lXNW5DaUFnSUNCbGJtUUtDaUFnSUNCawpaV1lnY0c5c2VYQmhkR2dvWkdWemRDa0tJQ0FnSUNBZ2JpQTlJQ2NuQ2lBZ0lDQWdJSE5wZEdVdWJHRnUKWjNWaFoyVnpMbVZoWTJnZ1pHOGdmR3hoYm1kOENpQWdJQ0FnSUNBZ2JpQXJQU0FpS0Z4Y1hDNGplMnhoCmJtZDlYRnd2S1h3aUNpQWdJQ0FnSUdWdVpBb2dJQ0FnSUNCdUxtTm9iMjF3SVNBbmZDY0tJQ0FnSUNBZwpaR1Z6ZEdsdVlYUnBiMjRvWkdWemRDa3VaM04xWWlnbGNuc2plMjU5ZlN3Z0p5OG5LUW9nSUNBZ1pXNWsKQ2dvZ0lDQWdaR1ZtSUhOcmFYQS9LSEJoZEdncENpQWdJQ0FnSUhKbGRIVnliaUJtWVd4elpTQnBaaUJ6CmFYUmxMbVpwYkdWZmJHRnVaM05iY0dGMGFGMHVibWxzUHdvZ0lDQWdJQ0J5WlhSMWNtNGdabUZzYzJVZwphV1lnYkdGdVp5QTlQU0J6YVhSbExtRmpkR2wyWlY5c1lXNW5DaUFnSUNBZ0lHbG1JR3hoYm1jZ1BUMGcKYzJsMFpTNWtaV1poZFd4MFgyeGhibWNLSUNBZ0lDQWdJQ0J5WlhSMWNtNGdjMmwwWlM1bWFXeGxYMnhoCmJtZHpXM0JoZEdoZElEMDlJSE5wZEdVdVlXTjBhWFpsWDJ4aGJtY0tJQ0FnSUNBZ1pXNWtDaUFnSUNBZwpJSFJ5ZFdVS0lDQWdJR1Z1WkFvZ0lHVnVaQW9LSUNCamJHRnpjeUJUZEdGMGFXTkdhV3hsQ2lBZ0lDQmgKYkdsaGMxOXRaWFJvYjJRZ09uZHlhWFJsWDI5eWFXY3NJRHAzY21sMFpRb2dJQ0FnWkdWbUlIZHlhWFJsCktHUmxjM1FwQ2lBZ0lDQWdJSEpsZEhWeWJpQm1ZV3h6WlNCMWJteGxjM01nUUhOcGRHVXVZV04wYVhabApYMnhoYm1jZ1BUMGdRSE5wZEdVdVpHVm1ZWFZzZEY5c1lXNW5DaUFnSUNBZ0lIZHlhWFJsWDI5eWFXY28KWkdWemRDa0tJQ0FnSUdWdVpBb2dJR1Z1WkFwbGJtUUsK
+# Jekyll Polyglot v1.1.0
+# Fast, painless, open source i18n plugin for Jekyll 3.0 Blogs.
+#   author Samuel Volin (@untra)
+#   github: https://github.com/untra/polyglot
+#   license: MIT
+#include Process
+module Jekyll
+  # Alteration to Jekyll Site class
+  # provides aliased methods to direct site.write to output into seperate
+  # language folders
+  class Site
+    attr_reader :default_lang, :languages
+    attr_accessor :file_langs, :active_lang
+
+    def prepare
+      @file_langs = {}
+      @default_lang = config['default_lang'] || 'en'
+      @languages = config['languages'] || ['en']
+      (@keep_files << @languages - [@default_lang]).flatten!
+      @active_lang = @default_lang
+    end
+
+    alias_method :process_orig, :process
+    def process
+      prepare
+      languages.each do |lang|
+        process_language lang
+      end
+=begin
+      pids = {}
+      languages.each do |lang|
+        pids[lang] = Process.fork do
+          process_language lang
+        end
+      end
+      old_handler = Signal.trap('INT') do
+        old_handler.call
+
+        languages.each do |lang|
+          begin
+            puts "Killing #{pids[lang]} : #{lang}"
+            Process.kill('INT', pids[lang])
+          rescue Errno::ESRCH
+            puts "Process #{pids[lang]} : #{lang} not running"
+          end
+        end
+      end
+      languages.each do |lang|
+        Process.waitpid pids[lang]
+        Process.detach pids[lang]
+      end
+=end
+    end
+
+    alias_method :site_payload_orig, :site_payload
+    def site_payload
+      payload = site_payload_orig
+      payload['site']['default_lang'] = default_lang
+      payload['site']['languages'] = languages
+      payload['site']['active_lang'] = active_lang
+      payload
+    end
+
+    def process_language(lang)
+      @active_lang = lang
+      config['active_lang'] = @active_lang
+      return process_orig if @active_lang == @default_lang
+      process_active_language
+    end
+
+    def process_active_language
+      @dest = @dest + '/' + @active_lang
+      process_orig
+    end
+
+    # hook to coordinate blog posts into distinct urls,
+    # and remove duplicate multilanguage posts
+    Jekyll::Hooks.register :site, :post_read do |site|
+      langs = {}
+      approved = {}
+      n = ''
+      site.languages.each do |lang|
+        n += "([\/\.]#{lang}[\/\.])|"
+      end
+      n.chomp! '|'
+      site.posts.docs.each do |doc|
+        language = doc.data['lang'] || site.default_lang
+        url = doc.url.gsub(%r{#{n}}, '/')
+        doc.data['permalink'] = url
+        next if langs[url] == site.active_lang
+        if langs[url] == site.default_lang
+          next if language != site.active_lang
+        end
+        approved[url] = doc
+        langs[url] = language
+      end
+      site.posts.docs = approved.values
+    end
+  end
+
+  # Alteration to Jekyll Convertible module
+  # provides aliased methods to direct Convertible to skip files for write under
+  # certain conditions
+  module Convertible
+    def lang
+      data['lang'] || site.config['default_lang'] || 'en'
+    end
+
+    def lang=(str)
+      data['lang'] = str
+    end
+
+    alias_method :write_orig, :write
+    def write(dest)
+      path = polypath(dest)
+      return if skip?(path)
+      output_orig = output.clone
+      write_orig(dest)
+      self.output = output_orig
+      site.file_langs[path] = lang
+    end
+
+    def polypath(dest)
+      n = ''
+      site.languages.each do |lang|
+        n += "(\\\.#{lang}\\/)|"
+      end
+      n.chomp! '|'
+      destination(dest).gsub(%r{#{n}}, '/')
+    end
+
+    def skip?(path)
+      return false if site.file_langs[path].nil?
+      return false if lang == site.active_lang
+      if lang == site.default_lang
+        return site.file_langs[path] == site.active_lang
+      end
+      true
+    end
+  end
+
+  class StaticFile
+    alias_method :write_orig, :write
+    def write(dest)
+      return false unless @site.active_lang == @site.default_lang
+      write_orig(dest)
+    end
+  end
+end
