@@ -1,1 +1,63 @@
-WTJ4aGMzTWdRWEp5WVhrS0lDQmtaV1lnYzJWc1ppNTNjbUZ3S0c5aWFtVmpkQ2tLSUNBZ0lHbG1JRzlpCmFtVmpkQzV1YVd3L0NpQWdJQ0FnSUZ0ZENpQWdJQ0JsYkhOcFppQnZZbXBsWTNRdWNtVnpjRzl1WkY5MApiejhvT25SdlgyRnllU2tLSUNBZ0lDQWdiMkpxWldOMExuUnZYMkZ5ZVNCOGZDQmJiMkpxWldOMFhRb2cKSUNBZ1pXeHpaUW9nSUNBZ0lDQmJiMkpxWldOMFhRb2dJQ0FnWlc1a0NpQWdaVzVrQ21WdVpBb0tZMnhoCmMzTWdSR0YwWVZOMGIzSmhaMlVLSUNCaGRIUnlYM0psWVdSbGNpQTZZMjlzYkdWamRHbHZiaXdnT214dgpZMkZzWlN3Z09tUmxabUYxYkhSZmJHOWpZV3hsQ2dvZ0lHUmxaaUJwYm1sMGFXRnNhWHBsS0cxdlpHVnMKY3l3Z1pHVm1hVzVwZEdsdmJuTXNJR3h2WTJGc1pTd2daR1ZtWVhWc2RGOXNiMk5oYkdVcENpQWdJQ0JBClkyOXNiR1ZqZEdsdmJpQTlJSHQ5Q2lBZ0lDQkFiRzlqWVd4bElEMGdiRzlqWVd4bENpQWdJQ0JBWkdWbQpZWFZzZEY5c2IyTmhiR1VnUFNCa1pXWmhkV3gwWDJ4dlkyRnNaUW9LSUNBZ0lHMXZaR1ZzYzE5d1lYUm8KSUQwZ1JtbHNaUzVsZUhCaGJtUmZjR0YwYUNnaUxpNHZMaTR2WDJSaGRHRXZYMjF2WkdWc2N5SXNJRjlmClJrbE1SVjlmS1FvZ0lDQWdLRzF2WkdWc2N5QjhmQ0JiWFNrdVpXRmphQ0JrYnlCOGJXOWtaV3hmYm1GdApaU3dnYlc5a1pXeGZaR0YwWVh3S0lDQWdJQ0FnYVdZZ1JHbHlMbVY0YVhOMGN6OG9JaU43Ylc5a1pXeHoKWDNCaGRHaDlMeU43Ylc5a1pXeGZibUZ0WlgwaUtRb2dJQ0FnSUNBZ0lFUnBjaTVqYUdScGNpZ2lJM3R0CmIyUmxiSE5mY0dGMGFIMHZJM3R0YjJSbGJGOXVZVzFsZlNJcElHUnZDaUFnSUNBZ0lDQWdJQ0J5WVdsegpaU0FpWDJSaGRHRXZYMjF2WkdWc2N5OGplMjF2WkdWc1gyNWhiV1Y5SUdOdmJuUmhhVzV6SUhOMVltUnAKY21WamRHOXlhV1Z6SWlCcFppQkVhWEl1WjJ4dllpZ25LaWNwTG1GdWVUOTdmR1o4SUVacGJHVXVaR2x5ClpXTjBiM0o1UHlCbUlIMEtJQ0FnSUNBZ0lDQmxibVFLSUNBZ0lDQWdaVzVrQ2lBZ0lDQWdJR052Ykd4bApZM1JwYjI1YmJXOWtaV3hmYm1GdFpWMGdQU0J0YjJSbGJGOWtZWFJoTG0xaGNIdDhaSHdnUkdGMFlVOWkKYW1WamRDNXVaWGNvWkN3Z1pHVm1hVzVwZEdsdmJuTmJiVzlrWld4ZmJtRnRaVjBnZkh3Z2UzMHNJSE5sCmJHWXBJSDBLSUNBZ0lHVnVaQW9nSUdWdVpBb0tJQ0JrWldZZ2JXVjBhRzlrWDIxcGMzTnBibWNvYm1GdApaU3dnS21GeVozVnRaVzUwY3l3Z0ptSnNiMk5yS1FvZ0lDQWdhV1lnYm1GdFpTNTBiMTl6SUQxK0lDOW0KYVc1a1h5aGNkeXNwWDJKNVh5aGNkeXNwTHlBbUppQWhZMjlzYkdWamRHbHZibHNrTVYwdWJtbHNQd29nCklDQWdJQ0JyWlhseklEMGdRWEp5WVhrdWQzSmhjQ2hoY21kMWJXVnVkSE11Wm1seWMzUXBDaUFnSUNBZwpJR3RsZVhNdWMybDZaU0E5UFNBeElEOGdabWx1WkNna01Td2dKRElzSUd0bGVYTXBMbVpwY25OMElEb2cKWm1sdVpDZ2tNU3dnSkRJc0lHdGxlWE1wQ2lBZ0lDQmxiSE5wWmlBaFkyOXNiR1ZqZEdsdmJsdHVZVzFsCkxuUnZYM05kTG01cGJEOEtJQ0FnSUNBZ1kyOXNiR1ZqZEdsdmJsdHVZVzFsTG5SdlgzTmRDaUFnSUNCbApiSE5sQ2lBZ0lDQWdJSE4xY0dWeUNpQWdJQ0JsYm1RS0lDQmxibVFLQ2lBZ1pHVm1JSEpsYzNCdmJtUmYKZEc5ZmJXbHpjMmx1Wno4b2JtRnRaU3dnYVc1amJIVmtaVjl3Y21sMllYUmxJRDBnWm1Gc2MyVXBDaUFnCklDQWhZMjlzYkdWamRHbHZibHR1WVcxbExuUnZYM05kTG01cGJEOGdmSHdnS0c1aGJXVXVkRzlmY3lBOQpmaUF2Wm1sdVpGOG9YSGNyS1Y5aWVWOG9YSGNyS1M4Z0ppWWdJV052Ykd4bFkzUnBiMjViSkRGZExtNXAKYkQ4cElIeDhJSE4xY0dWeUNpQWdaVzVrQ2dvZ0lHUmxaaUIwYjE5c2FYRjFhV1FLSUNBZ0lITmxiR1lLCklDQmxibVFLQ2lBZ1pHVm1JRnRkS0hCeWIzQmxjblI1S1FvZ0lDQWdjMlZ1WkNod2NtOXdaWEowZVNrSwpJQ0JsYm1RS0NpQWdaR1ZtSUdoaGMxOXJaWGsvS0hCeWIzQmxjblI1S1FvZ0lDQWdZMjlzYkdWamRHbHYKYmk1b1lYTmZhMlY1UHlod2NtOXdaWEowZVNrS0lDQmxibVFLQ2lBZ2NISnBkbUYwWlFvZ0lDQWdaR1ZtCklHWnBibVFvYm1GdFpTd2dhMlY1TENCd1lYSmhiU2tLSUNBZ0lDQWdZMjlzYkdWamRHbHZibHR1WVcxbApYUzV6Wld4bFkzUjdmRzlpYW53Z2IySnFMbTFoZEdOb1B5aHJaWGtzSUhCaGNtRnRLU0I5Q2lBZ0lDQmwKYm1RS1pXNWtDZz09Cg==
+class Array
+  def self.wrap(object)
+    if object.nil?
+      []
+    elsif object.respond_to?(:to_ary)
+      object.to_ary || [object]
+    else
+      [object]
+    end
+  end
+end
+
+class DataStorage
+  attr_reader :collection, :locale, :default_locale
+
+  def initialize(models, definitions, locale, default_locale)
+    @collection = {}
+    @locale = locale
+    @default_locale = default_locale
+
+    models_path = File.expand_path("../../_data/_models", __FILE__)
+    (models || []).each do |model_name, model_data|
+      if Dir.exists?("#{models_path}/#{model_name}")
+        Dir.chdir("#{models_path}/#{model_name}") do
+          raise "_data/_models/#{model_name} contains subdirectories" if Dir.glob('*').any?{|f| File.directory? f }
+        end
+      end
+      collection[model_name] = model_data.map{|d| DataObject.new(d, definitions[model_name] || {}, self) }
+    end
+  end
+
+  def method_missing(name, *arguments, &block)
+    if name.to_s =~ /find_(\w+)_by_(\w+)/ && !collection[$1].nil?
+      keys = Array.wrap(arguments.first)
+      keys.size == 1 ? find($1, $2, keys).first : find($1, $2, keys)
+    elsif !collection[name.to_s].nil?
+      collection[name.to_s]
+    else
+      super
+    end
+  end
+
+  def respond_to_missing?(name, include_private = false)
+    !collection[name.to_s].nil? || (name.to_s =~ /find_(\w+)_by_(\w+)/ && !collection[$1].nil?) || super
+  end
+
+  def to_liquid
+    self
+  end
+
+  def [](property)
+    send(property)
+  end
+
+  def has_key?(property)
+    collection.has_key?(property)
+  end
+
+  private
+    def find(name, key, param)
+      collection[name].select{|obj| obj.match?(key, param) }
+    end
+end

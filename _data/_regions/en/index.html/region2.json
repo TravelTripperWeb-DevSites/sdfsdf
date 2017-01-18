@@ -1,1 +1,11 @@
-[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>"}]
+[
+	{
+		"_template": "href",
+		"url": "qwe",
+		"name": "werty"
+	},
+	{
+		"_template": "html",
+		"content": "<p><img src=\"http://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_15_79/media/2016-11-30-092445/Stocksy_txp7f76ab4cX4F100_Small_303645.jpg\" width=\"194\" height=\"129\" />Sample HTML!!!</p>"
+	}
+]

@@ -1,1 +1,74 @@
-SXlCSFpXNWxjbUYwWlNCd1lXZGxjeUJtY205dElHbHVaR2wyYVdSMVlXd2djbVZqYjNKa2N5QnBiaUI1CmJXd2dabWxzWlhNS0l5QW9ZeWtnTWpBeE5DQkJaRzlzWm04Z1ZtbHNiR0ZtYVc5eWFYUmhDaU1nUkdsegpkSEpwWW5WMFpXUWdkVzVrWlhJZ2RHaGxJR052Ym1ScGRHbHZibk1nYjJZZ2RHaGxJRTFKVkNCTWFXTmwKYm5ObENncHRiMlIxYkdVZ1NtVnJlV3hzQ2lBZ1kyeGhjM01nUkdGMFlWQmhaMlVnUENCUVlXZGxDaUFnCklDQmhkSFJ5WDNKbFlXUmxjaUE2WkdGMFlWOXpiM1Z5WTJVc0lEcHpiM1Z5WTJWZmNHRjBhQ3dnT20xdgpaR1ZzWDJsa0Nnb2dJQ0FnWkdWbUlHbHVhWFJwWVd4cGVtVW9jMmwwWlN3Z1ltRnpaU3dnWkdseUxDQmsKWVhSaExDQnVZVzFsTENCMFpXMXdiR0YwWlN3Z2MyOTFjbU5sWDJScGNpa0tJQ0FnSUNBZ1FITnBkR1VnClBTQnphWFJsQ2lBZ0lDQWdJRUJpWVhObElEMGdZbUZ6WlFvZ0lDQWdJQ0JBWkdseUlEMGdaR2x5Q2lBZwpJQ0FnSUVCdGIyUmxiRjlwWkNBOUlHNWhiV1VLSUNBZ0lDQWdRR1JoZEdGZmMyOTFjbU5sSUQwZ2MyOTEKY21ObFgyUnBjaUFySUNjdkp5QXJJQ2hrWVhSaFd5ZGZYMGxPVTFSQlRrTkZYMThuWFNCOGZDQWlJM3R1CllXMWxmUzVxYzI5dUlpa0tJQ0FnSUNBZ1ptbHNaVjl1WVcxbElEMGdjMkZ1YVhScGVtVmZabWxzWlc1aApiV1VvYzJWc1ppNTFjbXhmWm5KcFpXNWtiSGxmYm1GdFpTaGtZWFJoS1NCOGZDQnVZVzFsS1FvZ0lDQWcKSUNCQWJtRnRaU0E5SUdacGJHVmZibUZ0WlNBZ0t5QWlMbWgwYld3aUNpQWdJQ0FnSUVCemIzVnlZMlZmCmNHRjBhQ0E5SUNkZmJHRjViM1YwY3k4bklDc2dkR1Z0Y0d4aGRHVWdLeUFuTG1oMGJXd25DZ29nSUNBZwpJQ0J6Wld4bUxuQnliMk5sYzNNb1FHNWhiV1VwQ2lBZ0lDQWdJSE5sYkdZdWNtVmhaRjk1WVcxc0tFWnAKYkdVdWFtOXBiaWhpWVhObExDQW5YMnhoZVc5MWRITW5LU3dnZEdWdGNHeGhkR1VnS3lBaUxtaDBiV3dpCktRb2dJQ0FnSUNCelpXeG1MbVJoZEdFdWJXVnlaMlVoS0dSaGRHRXBDaUFnSUNBZ0lITmxiR1l1WkdGMApZVnNuZEdsMGJHVW5YU0I4ZkQwZ2JtRnRaUW9nSUNBZ0lDQndaWEp0WVd4cGJtc2dQU0J6Wld4bUxtUmgKZEdGZmNHVnliV0ZzYVc1cklIeDhJRVpwYkdVdWFtOXBiaWhrYVhJc0lHWnBiR1ZmYm1GdFpTa0tJQ0FnCklDQWdhV1lnY0dWeWJXRnNhVzVySUNZbUlDRW9jR1Z5YldGc2FXNXJMbVZ1WkY5M2FYUm9QeWduTHljcApJSHg4SUhCbGNtMWhiR2x1YXk1bGJtUmZkMmwwYUQ4b0p5NW9kRzFzSnlrcENpQWdJQ0FnSUNBZ0kzQWcKSWxCbGNtMWhiR2x1YXlBamUzQmxjbTFoYkdsdWEzMGdhWE1nYVc1MllXeHBaQzRnVFhWemRDQmxibVJ6CklIZHBkR2dnSnk4bklHOXlJR2gwYld3Z1pYaDBaVzV6YVc5dUlnb2dJQ0FnSUNBZ0lIQmxjbTFoYkdsdQpheUFyUFNBbkx5Y0tJQ0FnSUNBZ1pXNWtDaUFnSUNBZ0lITmxiR1l1WkdGMFlWc25jR1Z5YldGc2FXNXIKSjEwZ1BTQndaWEp0WVd4cGJtc0tJQ0FnSUdWdVpBb2dJQW9nSUNBZ1pHVm1JR1JoZEdGZmNHVnliV0ZzCmFXNXJDaUFnSUNBZ0lITmxiR1l1WkdGMFlTNXVhV3cvSUQ4Z2JtbHNJRG9nYzJWc1ppNWtZWFJoV3lkdwpaWEp0WVd4cGJtc25YUW9nSUNBZ1pXNWtDaUFnQ2lBZ0lDQmtaV1lnZFhKc1gyWnlhV1Z1Wkd4NVgyNWgKYldVb1pHRjBZU0E5SUc1cGJDa0tJQ0FnSUNBZ1pHRjBZU0E5SUdSaGRHRWdmSHdnYzJWc1ppNWtZWFJoCkNpQWdJQ0FnSUdSaGRHRXVibWxzUHlCOGZDQmtZWFJoV3lkMWNteGZabkpwWlc1a2JIbGZibUZ0WlNkZApMbTVwYkQ4Z2ZId2daR0YwWVZzbmRYSnNYMlp5YVdWdVpHeDVYMjVoYldVblhTNXpkSEpwY0NBOVBTQW4KSnlBL0lHNXBiQ0E2SUdSaGRHRmJKM1Z5YkY5bWNtbGxibVJzZVY5dVlXMWxKMTBLSUNBZ0lHVnVaQW9nCklBb2dJQ0FnY0hKcGRtRjBaUW9nSUNBZ0lDQWpJSE4wY21sd0lHTm9ZWEpoWTNSbGNuTWdZVzVrSUhkbwphWFJsYzNCaFkyVWdkRzhnWTNKbFlYUmxJSFpoYkdsa0lHWnBiR1Z1WVcxbGN5d2dZV3h6YnlCc2IzZGwKY21OaGMyVUtJQ0FnSUNBZ1pHVm1JSE5oYm1sMGFYcGxYMlpwYkdWdVlXMWxLRzVoYldVcENpQWdJQ0FnCklDQWdjbVYwZFhKdUlHNWhiV1V1Wkc5M2JtTmhjMlV1YzNSeWFYQXVaM04xWWlnbklDY3NJQ2N0SnlrdQpaM04xWWlndlcxNWNkeTFkTHl3Z0p5Y3BDaUFnSUNBZ0lHVnVaQW9nSUdWdVpBb0tJQ0JqYkdGemN5QkUKWVhSaFVHRm5aWE5IWlc1bGNtRjBiM0lnUENCSFpXNWxjbUYwYjNJS0lDQWdJSE5oWm1VZ2RISjFaUW9LCklDQWdJR1JsWmlCblpXNWxjbUYwWlNoemFYUmxLUW9nSUNBZ0lDQmtZWFJoSUQwZ2MybDBaUzVqYjI1bQphV2RiSjNCaFoyVmZaMlZ1SjEwS0NpQWdJQ0FnSUdsbUlHUmhkR0VLSUNBZ0lDQWdJQ0JrWVhSaExtVmgKWTJnZ1pHOGdmR1JoZEdGZmMzQmxZM3dLSUNBZ0lDQWdJQ0FnSUNNZ2RHOWtiem9nWTJobFkyc2dhVzV3CmRYUWdaR0YwWVNCamIzSnlaV04wYm1WemN3b2dJQ0FnSUNBZ0lDQWdkR1Z0Y0d4aGRHVWdQU0JrWVhSaApYM053WldOYkozUmxiWEJzWVhSbEoxMGdmSHdnWkdGMFlWOXpjR1ZqV3lka1lYUmhKMTBLSUNBZ0lDQWcKSUNBZ0lHUnBjaUE5SUdSaGRHRmZjM0JsWTFzblpHbHlKMTBnZkh3Z1pHRjBZVjl6Y0dWald5ZGtZWFJoCkoxMEtDaUFnSUNBZ0lDQWdJQ0JwWmlCemFYUmxMbXhoZVc5MWRITXVhMlY1UHlCMFpXMXdiR0YwWlFvZwpJQ0FnSUNBZ0lDQWdJQ0J5WldOdmNtUnpJRDBnYzJsMFpTNWtZWFJoV3lkZmJXOWtaV3h6SjEwdWMyVnUKWkNoa1lYUmhYM053WldOYkoyUmhkR0VuWFNrS0lDQWdJQ0FnSUNBZ0lDQWdjbVZqYjNKa2N5NWxZV05vCklHUnZJSHh5WldOdmNtUjhDaUFnSUNBZ0lDQWdJQ0FnSUNBZ2NHRm5aU0E5SUVSaGRHRlFZV2RsTG01bApkeWh6YVhSbExDQnphWFJsTG5OdmRYSmpaU3dnWkdseUxDQnlaV052Y21RdVpHRjBZU3dnY21WamIzSmsKTG1sa0xDQjBaVzF3YkdGMFpTd2daR0YwWVY5emNHVmpXeWRrWVhSaEoxMHBDaUFnSUNBZ0lDQWdJQ0FnCklDQWdjMmwwWlM1d1lXZGxjeUE4UENCd1lXZGxDaUFnSUNBZ0lDQWdJQ0FnSUNBZ2MybDBaUzV6ZEc5eQpaVjl3WVdkbFgzQmxjbTFoYkdsdWF5RW9jR0ZuWlNrS0lDQWdJQ0FnSUNBZ0lDQWdaVzVrQ2lBZ0lDQWcKSUNBZ0lDQmxiSE5sQ2lBZ0lDQWdJQ0FnSUNBZ0lIQjFkSE1nSW1WeWNtOXlMaUJqYjNWc1pDQnViM1FnClptbHVaQ0IwWlcxd2JHRjBaU0FqZTNSbGJYQnNZWFJsZlNJS0lDQWdJQ0FnSUNBZ0lHVnVaQW9nSUNBZwpJQ0FnSUdWdVpBb2dJQ0FnSUNCbGJtUUtJQ0FnSUdWdVpBb2dJR1Z1WkFwbGJtUUsK
+# Generate pages from individual records in yml files
+# (c) 2014 Adolfo Villafiorita
+# Distributed under the conditions of the MIT License
+
+module Jekyll
+  class DataPage < Page
+    attr_reader :data_source, :source_path, :model_id
+
+    def initialize(site, base, dir, data, name, template, source_dir)
+      @site = site
+      @base = base
+      @dir = dir
+      @model_id = name
+      @data_source = source_dir + '/' + (data['__INSTANCE__'] || "#{name}.json")
+      file_name = sanitize_filename(self.url_friendly_name(data) || name)
+      @name = file_name  + ".html"
+      @source_path = '_layouts/' + template + '.html'
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), template + ".html")
+      self.data.merge!(data)
+      self.data['data'] = data
+      self.data['title'] ||= name
+      permalink = self.data_permalink || File.join(dir, file_name)
+      if permalink && !(permalink.end_with?('/') || permalink.end_with?('.html'))
+        #p "Permalink #{permalink} is invalid. Must ends with '/' or html extension"
+        permalink += '/'
+      end
+      self.data['permalink'] = permalink
+    end
+  
+    def data_permalink
+      self.data.nil? ? nil : self.data['permalink']
+    end
+  
+    def url_friendly_name(data = nil)
+      data = data || self.data
+      data.nil? || data['url_friendly_name'].nil? || data['url_friendly_name'].strip == '' ? nil : data['url_friendly_name']
+    end
+  
+    private
+      # strip characters and whitespace to create valid filenames, also lowercase
+      def sanitize_filename(name)
+        return name.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+      end
+  end
+
+  class DataPagesGenerator < Generator
+    safe true
+
+    def generate(site)
+      data = site.config['page_gen']
+
+      if data
+        data.each do |data_spec|
+          # todo: check input data correctness
+          template = data_spec['template'] || data_spec['data']
+          dir = data_spec['dir'] || data_spec['data']
+
+          if site.layouts.key? template
+            records = site.data['_models'].send(data_spec['data'])
+            records.each do |record|
+              page = DataPage.new(site, site.source, dir, record.data, record.id, template, data_spec['data'])
+              site.pages << page
+              site.store_page_permalink!(page)
+            end
+          else
+            puts "error. could not find template #{template}"
+          end
+        end
+      end
+    end
+  end
+end
